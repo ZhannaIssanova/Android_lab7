@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Issanova_LAB07</string>
+    <string name="loading">загрузка данных…</string>
+    <string name="update">ОБНОВИТЬ</string>
+    <string name="not_data">нет данных…</string>
+    <string name="error">Error!</string>
+    <string name="name">Звезды пользователя proffix4:</string>
+
+</resources>
